@@ -29,4 +29,4 @@ npm run build
 ```
 ### Live Demo
 
-[Globalize vue app](https://m-globalize-vue-app.netlify.app/)
+[Globalize vue app](https://m-practical-guide-vue3-i18n.netlify.app/)
